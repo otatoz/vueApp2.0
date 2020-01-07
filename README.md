@@ -1,5 +1,7 @@
 # jz_customer
 
+## description
+本项目类似于滴滴打车，分为三端（管理端、用户端、员工端），本项目就是顾客端，可以向平台预约提交订单
 ## Project setup
 ```
 yarn install
